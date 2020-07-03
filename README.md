@@ -1,6 +1,6 @@
 Parking Space Finder is an application which allows people to find space in parking lot easily and systematically.
 
-It tells driver the parking lot number where the car need to be parked and path to that parkinh lot.
+It tells driver the parking lot number where the car need to be parked and path to that parking lot.
 
 The Car is Parked in empty lot which is at shortest distance.
 
